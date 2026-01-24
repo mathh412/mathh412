@@ -42,8 +42,8 @@ Como estudante de Computação apaixonado por dados, meu foco se divide entre fu
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathh412&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathh412&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mathh412&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathh412&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 ---
