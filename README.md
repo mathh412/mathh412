@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  > 🎓 Estudante de **Ciência da Computação**
+  > 🎓 Estudante de **Ciência da Computação** <br>
   > 📊 Apaixonado por **Engenharia e Análise de Dados**
 
   <br>
