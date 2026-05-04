@@ -24,7 +24,7 @@ Como estudante de Computação apaixonado por dados, meu foco se divide entre fu
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js" alt="Minhas Linguagens" />
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <strong>Dados & Banco de Dados</strong><br>
