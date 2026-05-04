@@ -20,16 +20,13 @@
 Como estudante de Computação apaixonado por dados, meu foco se divide entre fundamentos sólidos e ferramentas analíticas:
 
 <div align="center">
+  **Linguagens Principais**<br><br>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js" alt="Minhas Linguagens" />
+</div>
 
-  **Linguagens Principais**<br>
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Cpp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <br><br>
+<br><br>
 
+<div align="center">
   **Dados & Banco de Dados**<br>
   <img align="center" alt="SQL Server" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="Pandas" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
