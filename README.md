@@ -8,7 +8,7 @@
   <br>
 
   <a href="https://www.linkedin.com/in/matheus-henrique-b04a08253/">
-    <img src="https://img.shields.io/badge/Status-Buscando%20Estágio%20%2F%20Oportunidades-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Status-Estagiário em dados-blue?style=for-the-badge">
   </a>
 
 </div>
@@ -42,7 +42,6 @@ Como estudante de Computação apaixonado por dados, meu foco se divide entre fu
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathh412&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathh412&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
